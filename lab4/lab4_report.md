@@ -52,12 +52,13 @@ Vertex AI
 
 ### Экономическая модель
 
-Сервис| Стоимость/месяц
-Cloud Run| $5,00
-Cloud Storage| $0,02
-Vertex AI| $3,00
-Firebase Authentication| $0,00
-Итого| $8,02
+| Сервис | Стоимость/месяц |
+|------|----------------|
+| Cloud Run | $5,00 |
+| Cloud Storage | $0,02 |
+| Vertex AI | $3,00 |
+| Firebase Authentication | $0,00 |
+| **Итого** | **$8,02** |
 
 Самые дешевые ресурсы, платим за запросы ИИ
 
@@ -85,14 +86,15 @@ Vertex AI
 
 ### Экономическая модель
 
-Сервис|	Стоимость/месяц
-Cloud Run| $4,50
-Firestore| $3,00
-Cloud Storage + CDN| $12,50
-Vertex AI| $22,50
-Firebase Authentication| $0,00
-Cloud Monitoring + Logging| $1,20
-Итого| $41,70
+Сервис |	Стоимость/месяц
+|------|-----------------|
+Cloud Run | $4,50
+Firestore | $3,00
+Cloud Storage + CDN | $12,50
+Vertex AI | $22,50
+Firebase Authentication | $0,00
+Cloud Monitoring + Logging | $1,20
+**Итого** | **$41,70**
 
 Появляется CDN, больше запросов к ИИ, мониторинг и логи
 
@@ -125,18 +127,19 @@ Cloud Pub/Sub + Cloud Functions
 
 ### Экономическая модель
 
-Сервис|	Стоимость/месяц
-GKE| $180,00
-Cloud SQL| $96,00
-Cloud Memorystore (Redis)| $30,00
-Cloud Storage + CDN| $85,00
-Vertex AI| $150,00
-Cloud Pub/Sub + Functions| $5,00
-Firebase Authentication| $25,00
-Cloud Endpoints| $45,00
-Cloud Monitoring + Logging + BigQuery| $35,00
-Looker Studio| $10,00
-Итого| $661,00
+Сервис |	Стоимость/месяц
+|------|-----------------|
+GKE | $180,00
+Cloud SQL | $96,00
+Cloud Memorystore (Redis) | $30,00
+Cloud Storage + CDN | $85,00
+Vertex AI | $150,00
+Cloud Pub/Sub + Functions | $5,00
+Firebase Authentication | $25,00
+Cloud Endpoints | $45,00
+Cloud Monitoring + Logging + BigQuery | $35,00
+Looker Studio | $10,00
+**Итого** | **$661,00**
 
 Появляются SQL, Pub/Sub, Redis, большая аналитика
 
